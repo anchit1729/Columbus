@@ -17,3 +17,10 @@ The idea behind Columbus is to provide users with a uniform dashboard + toolkit 
 
 The current version only has basic UI functionality set up. 
 Next step: set up user login and registration workflows, flesh out UI
+
+## Run Instructions
+
+1. Set up `create-react-app` on your local device, and create a new project called `columbus`. 
+2. Inside the `columbus` directory, replace the `public` and `src` folders with those in this directory.
+3. Use `npm i react-router-dom` to set up `react-router-dom`
+4. Run `npm start` and the project should be up on `localhost:3000` 
